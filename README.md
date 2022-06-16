@@ -68,3 +68,6 @@ com.unity.modules.video  Ver: 1.0.0
 com.unity.modules.vr  Ver: 1.0.0  
 com.unity.modules.wind  Ver: 1.0.0  
 com.unity.modules.xr  Ver: 1.0.0  
+
+この作品はユニティちゃんライセンス条項の元に提供されています  
+© Unity Technologies Japan/UCL
